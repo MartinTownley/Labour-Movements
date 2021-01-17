@@ -1,0 +1,14 @@
+Makefile
+addons.make
+Build/
+bin/whackaDebug
+Index/
+*.plist
+config.make
+
+### Xcode Patch ###
+*.xcodeproj
+
+
+*.xcconfig
+

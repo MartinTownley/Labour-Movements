@@ -1,0 +1,95 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-54", "dial", "float", 0.503937005996704, 5, "obj-53", "dial", "float", 6.0, 5, "obj-52", "dial", "float", 0.0 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-54", "dial", "float", 0.503937005996704, 5, "obj-53", "dial", "float", 6.0, 5, "obj-52", "dial", "float", 96.0 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-54", "dial", "float", 0.503937005996704, 5, "obj-53", "dial", "float", 1.08661413192749, 5, "obj-52", "dial", "float", 134.0 ]
+		}
+, 		{
+			"number" : 4,
+			"data" : [ 5, "obj-54", "dial", "float", 0.503937005996704, 5, "obj-53", "dial", "float", 6.0, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 5,
+			"data" : [ 5, "obj-54", "dial", "float", 0.503937005996704, 5, "obj-53", "dial", "float", 5.196850299835205, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 6,
+			"data" : [ 5, "obj-54", "dial", "float", 0.503937005996704, 5, "obj-53", "dial", "float", 3.77952766418457, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 7,
+			"data" : [ 5, "obj-54", "dial", "float", 2.393700838088989, 5, "obj-53", "dial", "float", 3.77952766418457, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 8,
+			"data" : [ 5, "obj-54", "dial", "float", 6.047244071960449, 5, "obj-53", "dial", "float", 3.77952766418457, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 9,
+			"data" : [ 5, "obj-54", "dial", "float", 6.047244071960449, 5, "obj-53", "dial", "float", 2.031496047973633, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 10,
+			"data" : [ 5, "obj-54", "dial", "float", 6.047244071960449, 5, "obj-53", "dial", "float", 1.08661413192749, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 11,
+			"data" : [ 5, "obj-54", "dial", "float", 9.574803352355957, 5, "obj-53", "dial", "float", 1.08661413192749, 5, "obj-52", "dial", "float", 120.0 ]
+		}
+, 		{
+			"number" : 12,
+			"data" : [ 5, "obj-54", "dial", "float", 9.574803352355957, 5, "obj-53", "dial", "float", 3.685039281845093, 5, "obj-52", "dial", "float", 120.0 ]
+		}
+, 		{
+			"number" : 13,
+			"data" : [ 5, "obj-54", "dial", "float", 14.61417293548584, 5, "obj-53", "dial", "float", 0.755905508995056, 5, "obj-52", "dial", "float", 8.0 ]
+		}
+, 		{
+			"number" : 14,
+			"data" : [ 5, "obj-54", "dial", "float", 14.61417293548584, 5, "obj-53", "dial", "float", 1.08661413192749, 5, "obj-52", "dial", "float", 228.0 ]
+		}
+, 		{
+			"number" : 15,
+			"data" : [ 5, "obj-54", "dial", "float", 7.937007904052734, 5, "obj-53", "dial", "float", 0.566929161548615, 5, "obj-52", "dial", "float", 228.0 ]
+		}
+, 		{
+			"number" : 16,
+			"data" : [ 5, "obj-54", "dial", "float", 7.937007904052734, 5, "obj-53", "dial", "float", 0.0, 5, "obj-52", "dial", "float", 46.0 ]
+		}
+, 		{
+			"number" : 17,
+			"data" : [ 5, "obj-54", "dial", "float", 7.937007904052734, 5, "obj-53", "dial", "float", 0.0, 5, "obj-52", "dial", "float", 186.0 ]
+		}
+, 		{
+			"number" : 18,
+			"data" : [ 5, "obj-54", "dial", "float", 2.897637844085693, 5, "obj-53", "dial", "float", 3.543307065963745, 5, "obj-52", "dial", "float", 296.0 ]
+		}
+, 		{
+			"number" : 19,
+			"data" : [ 5, "obj-54", "dial", "float", 2.771653652191162, 5, "obj-53", "dial", "float", 4.866141796112061, 5, "obj-52", "dial", "float", 296.0 ]
+		}
+, 		{
+			"number" : 20,
+			"data" : [ 5, "obj-54", "dial", "float", 1.763779520988464, 5, "obj-53", "dial", "float", 6.0, 5, "obj-52", "dial", "float", 96.0 ]
+		}
+, 		{
+			"number" : 21,
+			"data" : [ 5, "obj-54", "dial", "float", 1.763779520988464, 5, "obj-53", "dial", "float", 2.362204790115356, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 22,
+			"data" : [ 5, "obj-54", "dial", "float", 1.763779520988464, 5, "obj-53", "dial", "float", 1.700787425041199, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+, 		{
+			"number" : 23,
+			"data" : [ 5, "obj-54", "dial", "float", 1.763779520988464, 5, "obj-53", "dial", "float", 3.448818922042847, 5, "obj-52", "dial", "float", 349.0 ]
+		}
+ ]
+}
