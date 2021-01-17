@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 95.0, 79.0, 1315.0, 1215.0 ],
+		"rect" : [ 513.0, -1261.0, 1278.0, 838.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1733,7 +1733,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 242.586664690971247, 824.394516587257385, 150.0, 20.0 ],
+					"patching_rect" : [ 242.586664690971247, 839.394516587257385, 150.0, 20.0 ],
 					"text" : "mic input for live drum FX"
 				}
 
@@ -2974,7 +2974,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 161.388888955116272, 827.894516587257385, 80.0, 13.0 ]
+					"patching_rect" : [ 160.586664690971247, 842.894516587257385, 80.0, 13.0 ]
 				}
 
 			}
@@ -2986,7 +2986,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 110.263888955116272, 824.394516587257385, 45.0, 22.0 ],
+					"patching_rect" : [ 110.263888955116272, 842.894516587257385, 45.0, 22.0 ],
 					"text" : "adc~ 5"
 				}
 
@@ -5284,7 +5284,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
-					"midpoints" : [ 119.763888955116272, 855.394516587257385, 170.888888955116272, 855.394516587257385 ],
+					"midpoints" : [ 119.763888955116272, 855.394516587257385, 170.086664690971247, 855.394516587257385 ],
 					"order" : 1,
 					"source" : [ "obj-5", 0 ]
 				}
@@ -5617,168 +5617,168 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "noiseGate.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "peakReport.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pZinger.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pDopplerControl.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pDopplerPitchX.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pDopplerPoly.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pLeakyMath.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pLeaky.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pOSCmsgs.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pXYZmap.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "trigChng.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sequenceCount.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sequence.txt",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "1sends.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "2sends.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "3sends.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "4sends.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pOSCcues.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pAnnerLin.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pSetSoundscape.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "1molePlayer.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pZingerPan.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pDopPan.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pSideChain.maxpat",
-				"bootpath" : "~/Documents/Goldsmiths/Goldsmiths_2/MC 2/Assignments/Assignment 4/patch_files",
+				"bootpath" : "./of_v0.10.1_osx_release/apps/myApps/whacka/patch_files",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -5786,35 +5786,35 @@
 , 			{
 				"name" : "vs.butterhp~.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/Virtual Sound Macros/externals/filter macros",
-				"patcherrelativepath" : "../../../../../../Max 8/Packages/Virtual Sound Macros/externals/filter macros",
+				"patcherrelativepath" : "../../../../../../Users/martintownley/Documents/Max 8/Packages/Virtual Sound Macros/externals/filter macros",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "vs.butterhpc.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/Virtual Sound Macros/externals/filter macros",
-				"patcherrelativepath" : "../../../../../../Max 8/Packages/Virtual Sound Macros/externals/filter macros",
+				"patcherrelativepath" : "../../../../../../Users/martintownley/Documents/Max 8/Packages/Virtual Sound Macros/externals/filter macros",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "vs.pi.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/Virtual Sound Macros/externals/math and numbers",
-				"patcherrelativepath" : "../../../../../../Max 8/Packages/Virtual Sound Macros/externals/math and numbers",
+				"patcherrelativepath" : "../../../../../../Users/martintownley/Documents/Max 8/Packages/Virtual Sound Macros/externals/math and numbers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "vs.defaulter.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/Virtual Sound Macros/externals/max utility",
-				"patcherrelativepath" : "../../../../../../Max 8/Packages/Virtual Sound Macros/externals/max utility",
+				"patcherrelativepath" : "../../../../../../Users/martintownley/Documents/Max 8/Packages/Virtual Sound Macros/externals/max utility",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "vs.split.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/Virtual Sound Macros/externals/max routers",
-				"patcherrelativepath" : "../../../../../../Max 8/Packages/Virtual Sound Macros/externals/max routers",
+				"patcherrelativepath" : "../../../../../../Users/martintownley/Documents/Max 8/Packages/Virtual Sound Macros/externals/max routers",
 				"type" : "JSON",
 				"implicit" : 1
 			}

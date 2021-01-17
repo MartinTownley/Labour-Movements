@@ -5,9 +5,10 @@ style="float: left; margin-right: 10px;" />
 
 # Labour Movements
 
-(link)
+[Watch the video here](https://vimeo.com/332750759)
 
-Labour movements is an interactive soundscape animation for performer, utilising Max/MSP for sound design and openFrameworks for visual content. 
+### **Labour movements is an interactive soundscape animation for performer, using live drums & electronics, and custom software built in Max/MSP & openFrameworks.** 
+
 
 A drummer is presented with a cosmic whack-a-mole scenario, and uses specified drumming techniques to kill the space creatures which emerge at random locations on the 3-D plane. The software is audio-responsive, and multiple contact mics on the drumkit allow the performer to interact with the animation in real-time. 
 
